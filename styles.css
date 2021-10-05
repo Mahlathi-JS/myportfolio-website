@@ -621,11 +621,11 @@ a.btn:active {
 }
 
 .skills-box .reactjs {
-  width: 60%;
+  width: 70%;
 }
 
 .skills-box .nodejs {
-  width: 40%;
+  width: 60%;
 }
 
 .skills-box .bootstrap {
@@ -633,15 +633,15 @@ a.btn:active {
 }
 
 .skills-box .c-sharp {
-  width: 50%;
+  width: 60%;
 }
 
 .skills-box .sql-server {
-  width: 60%;
+  width: 70%;
 }
 
 .skills-box .git {
-  width: 60%;
+  width: 75%;
 }
 
 .skills-box .balsamiq {
@@ -649,11 +649,11 @@ a.btn:active {
 }
 
 .skills-box .abobe-xd {
-  width: 65%;
+  width: 75%;
 }
 
 .skills-box .figma {
-  width: 60%;
+  width: 70%;
 }
 
 .skills-box span {
